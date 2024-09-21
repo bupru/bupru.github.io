@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bupru.github.io/TmK/sitemap.TmK.gz
